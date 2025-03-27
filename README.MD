@@ -51,11 +51,11 @@ Part 1: Data Processing and Feature Engineering (Day 1)
 - Identify anomalies in the data.
 
                ##Expected Output
--Cleaned and merged dataset
--New features for time-based trends, holidays, promotions, and government paydays
--Rolling statistics and lagged sales features
--Sales trend visualization and anomaly detection
--Correlation analysis between oil prices and sales
+1.Cleaned and merged dataset
+2.New features for time-based trends, holidays, promotions, and government paydays
+3.Rolling statistics and lagged sales features
+4.Sales trend visualization and anomaly detection
+5.Correlation analysis between oil prices and sales
 
 
                 ##Troubleshooting
